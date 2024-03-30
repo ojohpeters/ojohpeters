@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ojohpeters
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning tkinter and kivy frameworks
+- 👋 Hi, I’m @ojohpeters | smok3scr33n
+- 👀I am a python developer and a Cybersecurity nerd|enthusiast 
+- 🌱 I’m currently penetration testing
 - 💞️ I’m looking to collaborate on everyone 😁
 - 📫 How to reach me +234-8139479853 or +234-815 330 4439
----Facebook @ peters 
+---Facebook @ojochegbe
 
 <!---
 ojohpeters/ojohpeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
